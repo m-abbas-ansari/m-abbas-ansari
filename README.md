@@ -3,10 +3,10 @@
 
 <img src="https://render.githubusercontent.com/render/math?math={\LARGE e^{i \pi} = -1}#gh-light-mode-only">
 <img src="https://render.githubusercontent.com/render/math?math={\color{white}\LARGE e^{i \pi} = -1}#gh-dark-mode-only">
-<h1> Mohammed Abbas Ansari </h1> 
-<h3> Deep Learning Enthusiast | CS Sophomore at JMI</h3>  
+<h1 align="center"> Mohammed Abbas Ansari </h1> 
+<h3 align="center"> Deep Learning Enthusiast | CS Sophomore at JMI</h3>  
 
-<i>Can a machine think like us?</i>
+<i align="center">Can a machine think like us?</i>
 
 </p>
 
