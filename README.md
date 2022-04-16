@@ -65,10 +65,9 @@
     <a href="https://github.com/m-abbas-ansari/github-readme-stats"><img alt="Abbas' Github Stats" src="https://github-readme-stats.vercel.app/api?username=m-abbas-ansari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/m-abbas-ansari/github-readme-stats"><img alt="Abbas' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-abbas-ansari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>  
 
-<a href="https://gpvc.arturio.dev/m-abbas-ansari">
-    <img src="https://komarev.com/ghpvc/?username=m-abbas-ansari">
+
 </a>
-<p align="center">
+<p align="center"><a href="https://gpvc.arturio.dev/m-abbas-ansari"><img src="https://komarev.com/ghpvc/?username=m-abbas-ansari">
 <a href="https://github.com/m-abbas-ansari?tab=followers"><img src="https://img.shields.io/github/followers/m-abbas-ansari?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
