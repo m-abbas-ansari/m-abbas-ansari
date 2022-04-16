@@ -1,5 +1,5 @@
 
-<center> 
+<p align="center"> 
 
 <img src="https://render.githubusercontent.com/render/math?math={\LARGE e^{i \pi} = -1}#gh-light-mode-only">
 <img src="https://render.githubusercontent.com/render/math?math={\color{white}\LARGE e^{i \pi} = -1}#gh-dark-mode-only">
@@ -8,7 +8,7 @@
 
 <i>Can a machine think like us?</i>
 
-</center>
+</p>
 
 ### About Me
  - 🔭 Currently working on super-resolution using GANs.
