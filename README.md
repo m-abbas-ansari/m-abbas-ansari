@@ -5,8 +5,7 @@
 <img src="https://render.githubusercontent.com/render/math?math={\color{white}\LARGE e^{i \pi} = -1}#gh-dark-mode-only">
 <h1 align="center"> Mohammed Abbas Ansari </h1> 
 <h3 align="center"> Deep Learning Enthusiast | CS Sophomore at JMI</h3>  
-
-<i align="center">Can a machine think like us?</i>
+<p align="center"><i>Can a machine think like us?</i></p>
 
 </p>
 
