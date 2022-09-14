@@ -2,11 +2,11 @@
 
 <!-- <img src="https://render.githubusercontent.com/render/math?math={\LARGE e^{i \pi} = -1}#gh-light-mode-only"> -->
 <!-- <img src="https://render.githubusercontent.com/render/math?math={\color{white}\LARGE e^{i \pi} = -1}#gh-dark-mode-only"> -->
-<!-- 
- <p><small><i>sic parvis magna</i></small></p> -->
 
-<h2> Mohammed Abbas Ansari </h2> 
-<h4> Deep Learning and Computer Vision Enthusiast</h4>
+ <p align="center"><small><i>sic parvis magna</i></small></p> 
+
+<h2 align="center"> Mohammed Abbas Ansari </h2> 
+<h4 align="center"> Deep Learning and Computer Vision Enthusiast</h4>
 
 <!-- <i>Can a machine think like us?</i> -->
 
