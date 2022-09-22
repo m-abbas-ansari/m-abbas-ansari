@@ -12,7 +12,7 @@
 
 </center>
 </html>
-I enjoy learning about any advacements in deep learning that gets us closer to acheiving artificial general intelligence. Love to work on research projects that employ novel deep learning techniques.
+I enjoy learning about any advacements in deep learning that gets us closer to acheiving artificial general intelligence. Love to work on research projects that employ novel deep learning techniques. If you're interested in reading about my journey: [My Blog](https://m-abbas-ansari.github.io/).
 
 #### Research Projects:
 
