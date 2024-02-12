@@ -1,45 +1,12 @@
-<center>
+Hey there 👋, great to have you here!\
+I'm a final year undergrad at JMI, New Delhi, with a passion for AI. I'll be graduating this summer in May.
+- 🤖 I love working on research projects that improve my skills in deep learning and pushing the frontiers of intelligence. 
+- 🔭 Currently exploring the world of neural decoding, an intersection of neuroscience and machine learning. 
+- ⚡ On the lookout for full-time research positions at tech startups or research labs!
+- 👨‍💻 Know more about me on [My Website](m-abbas-ansari.github.io)!
 
-<!-- <img src="https://render.githubusercontent.com/render/math?math={\LARGE e^{i \pi} = -1}#gh-light-mode-only"> -->
-<!-- <img src="https://render.githubusercontent.com/render/math?math={\color{white}\LARGE e^{i \pi} = -1}#gh-dark-mode-only"> -->
-
- <p align="center"><small><i>sic parvis magna</i></small></p> 
-
-<h2 align="center"> Mohammed Abbas Ansari </h2> 
-<h4 align="center"> Deep Learning and Computer Vision Enthusiast</h4>
-
-<!-- <i>Can a machine think like us?</i> -->
-
-</center>
-</html>
-
-I enjoy learning about any advacements in deep learning that gets us closer to acheiving artificial general intelligence. Love to work on research projects that employ novel deep learning techniques. If you're interested in reading about my journey: [My Blog](https://m-abbas-ansari.github.io).
-
-#### Research Projects:
-
-1. [Improved Visual Attention Classification for Autism Spectrum Disorder through Time-Dependent Representations.](https://github.com/m-abbas-ansari/ASD-Classification)
-2. [Super-Resolution of Digital Elevation Models using Adverserially Trained U-Net based Convolutional Residual Network with Attention.](https://github.com/m-abbas-ansari/SuperResolution-DEMs)
-3. [Towards Accurate Scene Text Localization using Efficient Attention.](https://github.com/m-abbas-ansari/AttentionText)
-
-<small><u>Frameworks and Tools</u>: PyTorch, Google Colab, Weights and Biases</small>
-
-#### Interesting ML Projects:
-
-1. [Robust Face Recognition Security System](https://github.com/m-abbas-ansari/HackJMI2-CheemsGamg)
-2. [Novel Bible Verse Generator](https://github.com/m-abbas-ansari/Machine-Learning-And-Data-Science/blob/main/pulp_fiction_quote_generation.ipynb)
-3. [PDF Document Text Line Image Extractor](https://github.com/m-abbas-ansari/pdf-text-line-extractor)
-
-<small><u>Frameworks and Tools</u>: Keras, OpenCV, Flask</small>
-
-
-#### Miscellanous Projects:
-1. [Campus Placements Management System [DBMS Project]](https://github.com/Ausaf1/Placement_Coordintion_jmi)<br>
-<small><u>Tech</u>: NodeJS, MySQL</small>
-2. [Operating System Algorithms in C](https://github.com/m-abbas-ansari/Operating-Systems-Lab)
-
-
-<!-- ### About Me -->
- <!-- - 🔭 Currently working on super-resolution using GANs.
+<!-- ### About Me
+ - 🔭 Currently working on super-resolution using GANs.
  - 👨‍💻 Trying to replicate deep learning research papers.
  - 🤖 Exploring **[computer architecture](https://www.youtube.com/watch?v=SbO0tqH8f5I)** and **[operating systems](https://www.amazon.in/Operating-System-Principles-Silberschatz/dp/8126509627/ref=sr_1_1?qid=1650108266&refinements=p_27%3AGalvin&s=books&sr=1-1)**.
  - 👯 Looking to collaborate on research projects.
@@ -83,14 +50,14 @@ I enjoy learning about any advacements in deep learning that gets us closer to a
 
     <br> -->
 
-<center>
+<!-- <center> -->
 
-### Connect with me
+<!-- ### Connect with me
 
 <a href="https://www.linkedin.com/in/abbas-ansari-2001/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/King_of_Haskul"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://github.com/m-abbas-ansari"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:mohd.abbas.ansari.2001@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:mohd.abbas.ansari.2001@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
 <!--
 ### Github Stats
@@ -102,4 +69,4 @@ I enjoy learning about any advacements in deep learning that gets us closer to a
     <img src="https://komarev.com/ghpvc/?username=m-abbas-ansari">
 </a>
 <a href="https://github.com/m-abbas-ansari?tab=followers"><img src="https://img.shields.io/github/followers/m-abbas-ansari?label=Followers&style=social" alt="GitHub Badge"></a>
-</center>
+<!-- </center> -->
