@@ -3,7 +3,7 @@ I'm a final year CS undergrad at JMI, New Delhi, with a passion for AI. I'll be 
 - 🤖 I love working on research projects that improve my skills in deep learning and pushing the frontiers of intelligence. 
 - 🔭 Currently exploring the world of neural decoding, an intersection of neuroscience and machine learning. 
 - ⚡ On the lookout for full-time research positions at tech startups or research labs!
-- 👨‍💻 Know more about me on [My Website](m-abbas-ansari.github.io)!
+- 👨‍💻 Know more about me on [My Website](https://m-abbas-ansari.github.io/)!
 
 <!-- ### About Me
  - 🔭 Currently working on super-resolution using GANs.
