@@ -1,5 +1,6 @@
 Hey there 👋, great to have you here!\
-I'm a first year Computational Neuroscience masters student at University of Tübingen, Germany. I'm curious about Natural and Artificial Intelligence.
+I'm a first year Computational Neuroscience masters student at University of Tübingen, Germany. 
+
 - 🔭 Currently exploring the world of neuroscience and figuring out research interests.
 - ⚡ On the lookout for full-time research positions at tech startups or research labs!
 - 👨‍💻 Know more about me on [My Website](https://m-abbas-ansari.github.io/)!
