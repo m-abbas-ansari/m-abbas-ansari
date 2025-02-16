@@ -1,8 +1,8 @@
 Hey there 👋, great to have you here!\
-I'm a first year Computational Neuroscience masters student at University of Tübingen, Germany. 
+I'm a first year Computational Neuroscience masters student at University of Tübingen, Germany. I also work as a Research Assistant at Cognitive Neuroscience and Neurotechnology Lab under Dr Romy Lorenz at Max Planck Institute of Biological Cybernetics, Tübingen, Germany. 
 
-- 🔭 Currently exploring the world of neuroscience and figuring out research interests.
-- ⚡ On the lookout for full-time research positions at tech startups or research labs!
+- 🔭 Currently researching causal mechanisms of frontoparietal brain networks.
+- ⚡ Powering through Neuroscience masters!
 - 👨‍💻 Know more about me on [My Website](https://m-abbas-ansari.github.io/)!
 
 <!-- ### About Me
