@@ -1,7 +1,6 @@
-Hey there 👋, great to have you here!\
-I'm a second year Computational Neuroscience masters student at University of Tübingen, Germany, currently doing my master's thesis with Peter Dayan and Roxana Zeraati at the Max Planck Institute for Biological Cybernetics. 
+Second year Computational Neuroscience masters student at University of Tübingen, Germany, currently doing a master's thesis with Peter Dayan and Roxana Zeraati at the Max Planck Institute for Biological Cybernetics. 
 
-- 🔭 Currently diving into Bayes-adaptive Markov Decision Processes (BAMDP)
+- 🔭 Currently diving into Partially Observable Markov Decision Processes (POMDP)
 - ⚡ Powering through Neuroscience masters!
 - 👨‍💻 Know more about me on [My Website](https://m-abbas-ansari.github.io/)!
 
