@@ -1,5 +1,5 @@
 Hey there 👋, great to have you here!\
-I'm a second year Computational Neuroscience masters student at University of Tübingen, Germany, currently doing my master's thesis with Peter Dayan and Roxana Zeraati at the Max Planck Institute for Biological Cybernetics
+I'm a second year Computational Neuroscience masters student at University of Tübingen, Germany, currently doing my master's thesis with Peter Dayan and Roxana Zeraati at the Max Planck Institute for Biological Cybernetics. 
 
 - 🔭 Currently diving into Bayes-adaptive Markov Decision Processes (BAMDP)
 - ⚡ Powering through Neuroscience masters!
